@@ -7,7 +7,7 @@ Repo built for project requirements of class 625.721
 
 - To experiment with the data using the notebook, please download and place in the relative path: 
 
-   -PathtoProject/Project Notebook.ipynb \n
-   -PathtoProject/Data/Place Data here \n
+	- PathtoProject/Project Notebook.ipynb
+	- PathtoProject/Data/Place Data here
 
 - The code is set up to use the path relative to the notebooks location at the HEAD of the project directory
